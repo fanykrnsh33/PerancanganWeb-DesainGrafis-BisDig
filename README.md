@@ -1,4 +1,4 @@
-![wireframe uts](https://github.com/user-attachments/assets/9534a29a-4904-44ee-91fb-fd896ea01950)Prinsip UI/UX: Menyusun Kerangka Pengalaman
+Prinsip UI/UX: Menyusun Kerangka Pengalaman
 
 UI berfokus pada tampilan dan interaksi visual, sedangkan UX berfokus pada keseluruhan pengalaman pengguna saat menggunakan produk. Prinsip-prinsip utama UI/UX meliputi:
 Konsistensi Desain yang konsisten memudahkan pengguna memahami pola interaksi, meningkatkan efisiensi dan kepercayaan, Keterbacaan dan keterlihatan, Navigasi intuitif, Responsivitas
