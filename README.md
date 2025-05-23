@@ -21,18 +21,20 @@ Whitespace adalah Ruang kosong antara elemen desain.Pengaruh terhadap UX Memberi
 
 4) Struktur dasar HTML5 untuk halaman profil terdiri dari beberapa bagian utama:
 
-1. **`<!DOCTYPE html>`** digunakan untuk memberi tahu browser bahwa dokumen ini menggunakan HTML5.
+ **`<!DOCTYPE html>`** digunakan untuk memberi tahu browser bahwa dokumen ini menggunakan HTML5.
 
-2. **`<html lang="id">`** adalah elemen utama yang membungkus seluruh isi halaman, dan atribut `lang="id"` menunjukkan bahwa bahasa yang digunakan adalah Bahasa Indonesia.
+ **`<html lang="id">`** adalah elemen utama yang membungkus seluruh isi halaman, dan atribut `lang="id"` menunjukkan bahwa bahasa yang digunakan adalah Bahasa Indonesia.
 
-3. **`<head>`** berisi informasi tentang halaman seperti judul (`<title>`), pengaturan karakter (`<meta charset>`), pengaturan tampilan untuk perangkat mobile (`<meta name="viewport">`), dan CSS internal (`<style>`).
+ **`<head>`** berisi informasi tentang halaman seperti judul (`<title>`), pengaturan karakter (`<meta charset>`), pengaturan tampilan untuk perangkat mobile (`<meta name="viewport">`), dan CSS internal (`<style>`).
 
-4. **`<body>`** adalah bagian utama yang menampilkan isi halaman kepada pengguna.
+`<body>`** adalah bagian utama yang menampilkan isi halaman kepada pengguna.
 
    * **`<header>`** berisi judul halaman dan deskripsi singkat tentang fotografer.
    * **`<main>`** memuat konten utama, seperti informasi tentang fotografer dan galeri foto.
    * **`<section>`** digunakan untuk membagi konten menjadi bagian-bagian yang terorganisir, misalnya bagian "Tentang Saya" dan "Galeri Kucing".
    * **`<footer>`** berisi informasi tambahan seperti tautan ke media sosial.
+
+https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/portofolio.css
 
 5) Manfaat membuat prototipe desain sebelum implementasi adalah untuk **menggambarkan tampilan dan fungsi sistem secara awal**, sehingga tim dapat **mengidentifikasi kesalahan, menguji ide, dan menerima masukan dari pengguna** sebelum waktu dan biaya dihabiskan untuk pengembangan penuh. Ini membantu menciptakan solusi yang lebih tepat, efisien, dan sesuai kebutuhan.
 
