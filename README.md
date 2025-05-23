@@ -34,7 +34,7 @@ Whitespace adalah Ruang kosong antara elemen desain.Pengaruh terhadap UX Memberi
   
 <footer> Berisi informasi kontak atau tautan media sosial.
 
-
+https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/profil%20fotografer%20uts.html
 
 
 
