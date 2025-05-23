@@ -1,0 +1,21 @@
+ /* Gaya default untuk desktop */
+body {
+  font-size: 16px;
+  padding: 20px;
+}
+
+/* Untuk tablet */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+    padding: 15px;
+  }
+}
+
+/* Untuk smartphone */
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+    padding: 10px;
+  }
+}
