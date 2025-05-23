@@ -1,0 +1,58 @@
+ <!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Toggle Komentar</title>
+  <style>
+    #comments {
+      display: none;
+      margin-top: 1rem;
+      padding: 1rem;
+      background-color: #f0f0f0;
+      border-left: 4px solid #00a859;
+    }
+
+    button {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      background-color: #00a859;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #008f4a;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Artikel Blog</h2>
+  <p>Ini adalah artikel blog dengan fitur komentar yang dapat menampilkan dan disembunyikan dengan tombol di bawah</p>
+
+  <button id="toggleButton">Tampilkan Komentar</button>
+
+  <div id="comments">
+    <p><strong>fany:</strong> bapaa seperti ini yaaaa</p>
+    <p><strong>fany:</strong> bapaaa, lopppyuu. kasih nilai yg gede yak >_< </p>
+  </div>
+
+  <script>
+    const toggleButton = document.getElementById('toggleButton');
+    const comments = document.getElementById('comments');
+
+    toggleButton.addEventListener('click', function () {
+      if (comments.style.display === 'none' || comments.style.display === '') {
+        comments.style.display = 'block';
+        toggleButton.textContent = 'Sembunyikan Komentar';
+      } else {
+        comments.style.display = 'none';
+        toggleButton.textContent = 'Tampilkan Komentar';
+      }
+    });
+  </script>
+
+</body>
+</html>
