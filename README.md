@@ -13,6 +13,7 @@ Whitespace adalah Ruang kosong antara elemen desain.Pengaruh terhadap UX Memberi
 ![wireframe uts](https://github.com/user-attachments/assets/263f6ec2-343d-4a72-9df5-e7fdf8d1e377)
 
 2) JavaScript pada halaman ini digunakan untuk memberikan interaktivitas dengan membuat tombol yang bisa **mengontrol tampilan komentar**. Ketika pengguna mengklik tombol, JavaScript akan menentukan apakah komentar sedang ditampilkan atau disembunyikan, lalu mengubah tampilannya dan menyesuaikan teks tombol. Ini membuat halaman terasa lebih responsif dan dinamis.
+    https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/menyembunyikan%20dan%20menampillkan.html
       
 ![Cuplikan layar 2025-05-23 210726](https://github.com/user-attachments/assets/acec88f0-4a5c-499e-8ebf-e630be77f63a)
 ![Cuplikan layar 2025-05-23 210739](https://github.com/user-attachments/assets/7c2fabea-2924-4074-a465-228cb9f82202)
