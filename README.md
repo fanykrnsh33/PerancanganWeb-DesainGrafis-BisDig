@@ -18,6 +18,7 @@ Whitespace adalah Ruang kosong antara elemen desain.Pengaruh terhadap UX Memberi
 ![Cuplikan layar 2025-05-23 210739](https://github.com/user-attachments/assets/7c2fabea-2924-4074-a465-228cb9f82202)
 
 3) Responsive design adalah pendekatan dalam desain web yang memastikan tampilan situs menyesuaikan dengan ukuran layar perangkat pengguna, baik itu desktop, tablet, maupun smartphone. Tujuannya adalah agar situs tetap nyaman digunakan dan terlihat rapi di berbagai perangkat. Salah satu alat utama dalam responsive design adalah media queries. Media queries memungkinkan CSS menyesuaikan gaya berdasarkan kondisi tertentu, seperti lebar layar perangkat. Dengan begitu, elemen seperti gambar, teks, dan layout bisa berubah agar sesuai dengan layar yang lebih kecil.
+   https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/portofolio.css
 
 4) Struktur dasar HTML5 untuk halaman profil terdiri dari beberapa bagian utama:
 
@@ -34,7 +35,7 @@ Whitespace adalah Ruang kosong antara elemen desain.Pengaruh terhadap UX Memberi
    * **`<section>`** digunakan untuk membagi konten menjadi bagian-bagian yang terorganisir, misalnya bagian "Tentang Saya" dan "Galeri Kucing".
    * **`<footer>`** berisi informasi tambahan seperti tautan ke media sosial.
 
-https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/portofolio.css
+https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/profil%20fotografer%20uts.html
 
 5) Manfaat membuat prototipe desain sebelum implementasi adalah untuk **menggambarkan tampilan dan fungsi sistem secara awal**, sehingga tim dapat **mengidentifikasi kesalahan, menguji ide, dan menerima masukan dari pengguna** sebelum waktu dan biaya dihabiskan untuk pengembangan penuh. Ini membantu menciptakan solusi yang lebih tepat, efisien, dan sesuai kebutuhan.
 
