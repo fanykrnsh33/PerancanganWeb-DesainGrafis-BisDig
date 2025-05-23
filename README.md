@@ -36,6 +36,8 @@ Whitespace adalah Ruang kosong antara elemen desain.Pengaruh terhadap UX Memberi
    * **`<section>`** digunakan untuk membagi konten menjadi bagian-bagian yang terorganisir, misalnya bagian "Tentang Saya" dan "Galeri Kucing".
    * **`<footer>`** berisi informasi tambahan seperti tautan ke media sosial.
 
+     https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/Cuplikan%20layar%202025-05-23%20212013.png
+
 https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/profil%20fotografer%20uts.html
 
 5) Manfaat membuat prototipe desain sebelum implementasi adalah untuk **menggambarkan tampilan dan fungsi sistem secara awal**, sehingga tim dapat **mengidentifikasi kesalahan, menguji ide, dan menerima masukan dari pengguna** sebelum waktu dan biaya dihabiskan untuk pengembangan penuh. Ini membantu menciptakan solusi yang lebih tepat, efisien, dan sesuai kebutuhan.
