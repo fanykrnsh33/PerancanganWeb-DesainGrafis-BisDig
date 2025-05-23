@@ -38,4 +38,5 @@ Whitespace adalah Ruang kosong antara elemen desain.Pengaruh terhadap UX Memberi
 https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/profil%20fotografer%20uts.html
 
 5) Manfaat membuat prototipe desain sebelum implementasi adalah untuk **menggambarkan tampilan dan fungsi sistem secara awal**, sehingga tim dapat **mengidentifikasi kesalahan, menguji ide, dan menerima masukan dari pengguna** sebelum waktu dan biaya dihabiskan untuk pengembangan penuh. Ini membantu menciptakan solusi yang lebih tepat, efisien, dan sesuai kebutuhan.
+    https://github.com/fanykrnsh33/PerancanganWeb-DesainGrafis-BisDig/blob/main/promo%20card%20uts.html
 
